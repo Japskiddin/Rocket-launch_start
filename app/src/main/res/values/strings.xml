@@ -1,5 +1,5 @@
 <resources>
-  <string name="app_name">Запуск ракеты</string>
+  <string name="app_name">Rocket Launch</string>
   <string name="title_no_animation">Без анимации</string>
   <string name="title_launch_rocket">Запустить ракету</string>
   <string name="title_spin_rocket">Вращать ракету</string>
